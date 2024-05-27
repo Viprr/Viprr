@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Viprr/Viprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+estou estudando no Alura
+estou me desenvolvendo na linguagem JavaScript
+utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
